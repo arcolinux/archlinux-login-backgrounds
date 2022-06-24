@@ -1,2 +1,2 @@
-# ArcoLinux Wallpapers
+# ArchLinux Wallpapers for any display managers
 
